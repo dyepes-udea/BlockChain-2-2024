@@ -78,7 +78,6 @@ Este contrato está escrito en Solidity (versión ^0.8.0). Puedes desplegarlo us
 
 ## Requisitos
 
-- [Node.js](https://nodejs.org/) (opcional para el desarrollo con Truffle o Hardhat)
 - [MetaMask](https://metamask.io/) para interactuar con la red Ethereum o redes de pruebas.
 
 ## Licencia
